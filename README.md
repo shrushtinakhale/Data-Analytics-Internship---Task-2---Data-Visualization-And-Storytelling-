@@ -60,28 +60,28 @@ This dashboard tells the story of **Amazon's sales performance over 5 years**, h
 ### Overall Dashboard View
 
 
-![Overall Dashboard](screenshot/amazon%20sales%20dashboard%20overview.PNG)
+![Overall Dashboard](screenshot20%folder/amazon%20sales%20dashboard%20overview.PNG)
 
 
 
 ### KPI Cards Section
 
 
-![KPI Cards](screenshot/KPI%20SECTION.PNG)
+![KPI Cards](screenshot20%folder/KPI%20SECTION.PNG)
 
 
 
 ### Charts Section
 
 
-![Charts](screenshot/CHARTS%20SECTION.PNG)
+![Charts](screenshot20%folder/CHARTS%20SECTION.PNG)
 
 
 
 ### Filters & Slicers
 
 
-![Slicers](screenshot/Slicers.PNG)
+![Slicers](screenshot20%folder/Slicers.PNG)
 
 
 
