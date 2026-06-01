@@ -60,7 +60,7 @@ This dashboard tells the story of **Amazon's sales performance over 5 years**, h
 ### Overall Dashboard View
 
 
-![Overall Dashboard](screenshot20%folder/amazon%20sales%20dashboard%20overview.PNG)
+![Overall Dashboard](screenshot20%folder/amazon%20sales%20dashboard%20overview.png)
 
 
 
@@ -81,7 +81,7 @@ This dashboard tells the story of **Amazon's sales performance over 5 years**, h
 ### Filters & Slicers
 
 
-![Slicers](screenshot20%folder/Slicers.PNG)
+![Slicers](screenshot20%folder/Slicers.png)
 
 
 
